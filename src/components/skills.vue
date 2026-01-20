@@ -38,7 +38,7 @@ export default {
         { name: 'HTML', imageSrc: 'html' },
         { name: 'CSS', imageSrc: 'css' },
         { name: 'Bootstrap', imageSrc: 'bootstrap' },
-        { name: 'SASS', imageSrc: 'sass' },
+        { name: 'Java', imageSrc: 'java' },
         { name: 'Tailwind', imageSrc: 'tailwind' },
         { name: 'JavaScript', imageSrc: 'js' },
         { name: 'React', imageSrc: 'react' },

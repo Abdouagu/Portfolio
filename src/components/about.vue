@@ -6,68 +6,93 @@
       <div class="verticle-line position-absolute"></div>
       <div data-aos="fade-left" data-aos-duration="1000" class="mt-4 ml-5">
         <h2 class='mb-4'> <i class="fa-solid fa-briefcase"></i> Experience - {{calculatedExperience}}+ year(s)</h2>
+        
+        <!-- Software Engineering Student -->
         <div class='w-100 text-green'>
-          <h4 class='d-inline'> Software Engineer - 2022-present</h4>
+          <h4 class='d-inline'> Software Engineering Student - February 2025-August 2025</h4>
         </div>
-        <h6> <a class='text-blue' href= 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://codingcops.com/&ved=2ahUKEwj45KjR6OGKAxWXF2IAHS9oO-MQFnoECDcQAQ&usg=AOvVaw0qDV81i0KjT34kPmA7ojBM'> Coding Cops, Lahore. </a></h6>
+        <h6> <a class='text-blue' href='#'>Final Year Project (PFA) - Construction Company</a></h6>
         <ul>
-          <li> Developed key features and resolved bugs for web applications using React, Vue.js, and Ruby on Rails. </li>
-          <li> Continuously enhancing skills by pursuing certifications in AWS, DevOps & python. </li>
+          <li>Developed a comprehensive construction management web application using Java Spring Boot</li>
+          <li>Implemented features for construction site management, worker tracking, attendance systems, and expense monitoring</li>
+          <li>Designed responsive user interfaces with Bootstrap for optimal user experience across devices</li>
+          <li>Integrated database systems and implemented RESTful APIs for data management</li>
         </ul>
         <div class="skills mb-5">
-          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">Vue JS</span>
-          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">React JS</span>
-          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">Ruby on Rails</span>
-          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">Python </span>
-          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">AWS services</span>
+          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">Java</span>
+          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">Spring Boot</span>
+          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">Bootstrap</span>
+          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">MySQL</span>
+          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">REST API</span>
+          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">Git</span>
         </div>
 
-        <h4 class='text-green'> Front End Developer - 2021-2022 </h4>
-        <h6> <a class='text-blue'href= 'https://theunitedsoftware.com/'>United Insurance, Lahore. </a> </h6>
+        <!-- Freelance Web Developer -->
+        <h4 class='text-green'> Freelance Web Developer - 2023-2025 </h4>
+        <h6> <a class='text-blue' href='#'>Various Client Projects</a> </h6>
         <ul>
-          <li> Created visually appealing, user-friendly interfaces, using CSS grid and flexbox layouts for responsive design. </li>
-          <li> Utilized react components & npm modules to develop modular, reusable UI elements for efficient front-end development. </li>
+          <li>Developed a static website for a marketing agency with modern UI/UX using HTML, CSS, and JavaScript</li>
+          <li>Created an apartment rental platform with property listings, search filters, and contact system using Bootstrap and PHP</li>
+          <li>Built a car rental agency website with vehicle booking system, fleet management, and customer portal using Bootstrap and PHP</li>
+          <li>Collaborated directly with clients to understand requirements, provide technical solutions, and deliver customized web applications</li>
         </ul>
         <div class="skills mb-5">
           <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">HTML</span>
           <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">CSS</span>
-          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">SCSS</span>
           <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">JavaScript</span>
+          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">PHP</span>
           <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">Bootstrap</span>
-          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">Tailwind CSS</span>
-          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">React JS</span>
+          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">Responsive Design</span>
+          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">GitHub</span>
         </div>
 
-        <h4 class='text-green'> Freelancer - 2019-2021 </h4>
-        <h6> <a class='text-blue'href= 'https://www.upwork.com/freelancers/~01a73a1abd70f9f27f'>Upwork </a> </h6>
+        <!-- Personal Projects & Learning -->
+        <h4 class='text-green'> Technical Learning & Personal Projects - 2022-2023 </h4>
+        <h6> <a class='text-blue'href='#'>Self-Study & Skill Development</a> </h6>
         <ul>
-          <li> Developed key features and resolved bugs for web applications using React, Vue.js, and Ruby on Rails. </li>
-          <li>Continuously enhancing skills by pursuing certifications in AWS, DevOps & Python. </li>
+          <li>Mastered core web development technologies through online courses and practical implementation</li>
+          <li>Developed multiple personal projects to practice fullstack development concepts</li>
+          <li>Learned version control with Git/GitHub and deployment strategies</li>
+          <li>Studied software engineering principles and best practices</li>
         </ul>
         <div class="skills mb-5">
-          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">Front End Optimization</span>
-          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">AWS Deployment</span>
-          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">Backend Optimization</span>
+          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">React JS</span>
+          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">Node.js</span>
+          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">MongoDB</span>
+          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">DevOps Basics</span>
+          <span class="badge rounded-pill px-3 py-2 mx-2 border border-dark">API Development</span>
         </div>
       </div>
     </div>
     <br/>
 
     <div class="position-relative mt-5">
-      <div class="verticle-line position-absolute"></div>
+  <div class="verticle-line position-absolute"></div>
 
-      <div data-aos="fade-left" data-aos-duration="1000" class="mt-4 ml-5">
-        <h2 class='mb-4'><i class="fa-solid fa-user-graduate"></i> Education </h2>
-        
-        <h4 class='text-green'> Bachelor in Information Technology (BIT) - 2022-present </h4>
-        <h6><a class='text-blue' href='https://pucit.edu.pk/'> Punjab University (PUCIT) Lahore, Pakistan. </a></h6>
-        <p> Obtained comprehensive knowledge in computer science and information technology, enhancing skills in software development, and passed it with 3.06 CGPA. </p>
+  <div data-aos="fade-left" data-aos-duration="1000" class="mt-4 ml-5">
+    <h2 class='mb-4'><i class="fa-solid fa-user-graduate"></i> Education </h2>
+    
+    <!-- Cycle d'Ingénieur en Génie Informatique -->
+    <h4 class='text-green'> Engineering Cycle in Computer Engineering (5th year) - 2023-Present </h4>
+    <h6><a class='text-blue' href='https://ensa.uit.ac.ma/'>National School of Applied Sciences (ENSA), Agadir, Morocco</a></h6>
+    <p>Pursuing a comprehensive engineering degree in Computer Engineering with focus on software development, system architecture, algorithms, and modern software engineering methodologies. Currently in the 3rd year of the engineering cycle.</p>
 
-        <h4 class='text-green'> Mern Stack Certification - 2022</h4>
-        <h6><a class='text-blue' href='https://nextbridge.com/'>Next Bridge, Lahore, Pakistan.</a>  </h6>
-        <p>Acquired advanced mern-stack, leveraging industry best practices to create dynamic and interactive web applications.</p>
-      </div>
-    </div>
+    <!-- Classes préparatoires -->
+    <h4 class='text-green'> Preparatory Classes MPSI/MP - 2021-2023 </h4>
+    <h6><a class='text-blue' href='#'>Reda Slaoui High School, Agadir, Morocco</a></h6>
+    <p>Completed intensive two-year preparatory program in Mathematics, Physics, and Engineering Sciences. Developed strong analytical and problem-solving skills. Conducted a TIPE research project on "Study of the impact of topography on the urban development of Agadir city".</p>
+
+    <!-- Baccalauréat -->
+    <h4 class='text-green'> Baccalaureate in Mathematical Sciences A - 2021 </h4>
+    <h6><a class='text-blue' href='#'>Youssef Ben Tachfine High School, Agadir, Morocco</a></h6>
+    <p>Graduated with specialization in Mathematical Sciences, focusing on advanced mathematics, physics, and engineering principles. Developed strong foundations in analytical thinking and scientific methodology.</p>
+
+    <!-- Certificat -->
+    <h4 class='text-green'> Java (Basic) Certification - 2025 </h4>
+    <h6><a class='text-blue' href='https://www.hackerrank.com/certificates/029474c77848'>HackerRank Certification, ID: 029474C77848</a></h6>
+    <p>Successfully completed Java programming certification demonstrating proficiency in core Java concepts, object-oriented programming, and basic algorithm implementation.</p>
+  </div>
+</div>
   </section>
 </template>
 
@@ -80,7 +105,7 @@ export default {
   data() {
     return {
       activeSection: 'experience',
-      startDate: "2019-01-01"
+      startDate: "2023-01-01"  // Changé pour commencer en 2023
     };
   },
   computed: {
