@@ -8,7 +8,7 @@
         I am a skilled software developer delivering high-quality solutions across diverse projects. My expertise spans front-end and back-end development, including Vue.js, React.js, Ruby on Rails and Python.
       </p>
       <p class='intro-para'>
-        I specialize in creating user-friendly interfaces and scalable systems to meet client needs. My passion lies in solving complex challenges with and effective solutions.
+        Abdou
       </p>
       <div class="btn-container mt-3">
         <button
@@ -29,7 +29,7 @@
     <div class="pic_container col-lg-6 col-sm-12 d-flex justify-content-center alig-items-center">
       <div class='pic_container_inner'>
         <div class='green-bg'></div>
-        <img data-aos="fade-left" data-aos-duration="1000" zoomtastic src="../assets/me.png" alt="profile pic" />
+        <img data-aos="fade-left" data-aos-duration="1000" zoomtastic src="../assets/abdou.jpg" alt="profile pic" />
       </div>
 
     </div>
