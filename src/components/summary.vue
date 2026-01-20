@@ -28,7 +28,7 @@
     </div>
     <div class="pic_container col-lg-6 col-sm-12 d-flex justify-content-center alig-items-center">
       <div class='pic_container_inner'>
-        <div class='green-bg'></div>
+        
         <img data-aos="fade-left" data-aos-duration="1000" zoomtastic src="../assets/abdou.png" alt="profile pic" />
       </div>
 
