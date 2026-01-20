@@ -45,7 +45,7 @@
     data() {
       return {
         projects: [
-          {
+          /*{
             title: "Blood Donation Website",
             description: "A web platform designed to connect blood donors with recipients efficiently. Users can create an account, input their blood type and location, and receive notifications when a matching recipient requires a donation. The system ensures quick and seamless communication between donors and those in need.",
             image: "/projects/project_blood_web.png",
@@ -108,7 +108,7 @@
             live: "https://kaleidoscopic-cat-37f8fc.netlify.app/",
             github: "https://github.com/arjad/food-menu",
             technologies: ["Animations", "HTML", "SASS"]
-          }
+          }*/
         ]
       };
     }

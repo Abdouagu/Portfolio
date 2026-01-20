@@ -1,7 +1,7 @@
 <template>
   <div id="navigation" class="py-3 shadow nav">
     <div class="container d-flex- justify-content-between">
-      <h2 class="d-inline">Arjad's Portfolio</h2>
+      <h2 class="d-inline">Abdessamad Aguezzoul</h2>
       <ul class="d-flex mb-0">
         <li class="p-2 scroll-to" @click="scrollToSection('summary')">Summary</li>
         <li class="p-2 scroll-to" @click="scrollToSection('about')">About</li>
