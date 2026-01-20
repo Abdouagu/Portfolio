@@ -11,19 +11,21 @@
         
       </p>
       <div class="btn-container mt-3">
-        <button
-          class="btn btn-color-2 btn-black"
-          onclick="location.href='https://drive.google.com/file/d/1I24YNY6zHmmT7MtJzKVGk1kLrqlBnT3a/view?usp=sharing'"
-        >
-          View Resume
-        </button>
+        <a
+  href="/cv/Abdessamad_Aguezzoul_CV.pdf"
+  download="Abdessamad_Aguezzoul_FullStack_Developer_CV.pdf"
+  class="btn btn-color-2 btn-black"
+  target="_blank"
+>
+  <i class="fa-solid fa-download mr-2"></i> Download Resume
+</a>
         <button class="btn btn-color-1" @click="scrollToSection('contact')">
           Contact Info
         </button>
       </div>
       <div id="socials-container">
-        <i class="fa-brands fa-linkedin icon" @click="redirectTo('https://www.linkedin.com/in/arjad/')"></i>
-        <i class="icon fa-brands fa-github" @click="redirectTo('https://github.com/arjad')"></i>
+        <i class="fa-brands fa-linkedin icon" @click="redirectTo('https://www.linkedin.com/in/abdessamad-aguezzoul-2a9a11278/')"></i>
+        <i class="icon fa-brands fa-github" @click="redirectTo('https://github.com/Abdouagu')"></i>
       </div>
     </div>
     <div class="pic_container col-lg-6 col-sm-12 d-flex justify-content-center alig-items-center">
