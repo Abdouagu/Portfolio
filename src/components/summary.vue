@@ -8,7 +8,7 @@
         I am a skilled software developer delivering high-quality solutions across diverse projects. My expertise spans front-end and back-end development, including Vue.js, React.js, Ruby on Rails and Python.
       </p>
       <p class='intro-para'>
-        Abdou
+        Mesii
       </p>
       <div class="btn-container mt-3">
         <button
