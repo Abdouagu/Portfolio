@@ -12,8 +12,10 @@
           @mouseout="toggleSkillLevel(index, false)"
         >
           <h3>
-            <img :src="`${process.env.BASE_URL}icons/${skill.imageSrc}.png`" class="skill-image mr-3" />
-
+            <img 
+              :src="`/icons/${skill.imageSrc}.png`" 
+              class="skill-image mr-3"
+            />
 
             {{ skill.name }}
           </h3>
